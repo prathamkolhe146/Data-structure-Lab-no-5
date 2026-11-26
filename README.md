@@ -1,4 +1,4 @@
-# Data-structure-Lab-no-5
+# HOSPITAL PATIRNT REGISTRATION SYSTEM
 Hospital patient registration system 
 #include <stdio.h>
 #include <string.h>
